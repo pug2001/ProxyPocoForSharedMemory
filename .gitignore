@@ -3,3 +3,15 @@
 ################################################################################
 
 /DataObjects/obj/Debug/netstandard1.4
+/DataStore/bin/Debug
+/DataStore/obj
+/DataStoreNet4/bin/Debug
+/DataStoreNet4/obj/Debug
+/.vs/DataStore/v15/sqlite3
+/SharedMemoryStorage/bin/Debug
+/SharedMemoryStorage/obj
+/SharedMemoryStoreNet4/bin/Debug
+/SharedMemoryStoreNet4/obj/Debug
+/.vs/DataStore/v15
+/DataObjects/bin/Debug/netstandard1.4
+/DataObjects/obj
